@@ -1,5 +1,5 @@
 import styles from './AddBalanceForm.module.css'
-import Button from '../../Button/Button.jx'
+import Button from '../../Button/Button.js'
 import { useState } from 'react'
 import { useSnackbar } from 'notistack';
 
